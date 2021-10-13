@@ -1,11 +1,14 @@
+### On your Default Browser
+ - Install [```codegrepper```](https://www.google.com/search?q=codegrepper+extension)  
+ - Install [```Adblock```](https://www.google.com/search?q=adblock+extension)
+
 ### Install snapstore
 > For Ubuntu 16.04 and greater : snapd is already installed, else
-    ```sudo apt update```
-    ```sudo apt install snapd```
 
-### On your Default Browser
- - Install [```codegrepper```](https://www.google.com/search?channel=fs&client=ubuntu&q=ccodegrepper+extension)  
- - Install [```Adblock```](https://www.google.com/search?q=adblock+extension&client=ubuntu)
+```sudo apt update```
+
+```sudo apt install snapd```
+
  
  ### In terminal
  
@@ -26,14 +29,18 @@
 | ------ | ------ |
 |Telegram|```sudo snap install telegram-desktop```|
 |Flameshot|```sudo snap install flameshot```|
-
+|Pomatez|```sudo snap install pomatez```|
+|WhatsApp for linux (unofficial)|```sudo snap install whatsapp-4linux```|
 
 ### Extensions
-> Enable gnome-extension   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ```sudo apt-get install chrome-gnome-shell```
 
-> Enable gnome-tweaks   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ```sudo apt-get install gnome-tweaks```
-- ##### Turn on the following extensions
-    - [user themes](https://extensions.gnome.org/extension/19/user-themes/)
+| Other | command|
+| ------ | ------ |
+|Enable gnome-extension  |```sudo apt-get install chrome-gnome-shell```|
+| Enable gnome-tweaks |```sudo apt-get install gnome-tweaks```|
+
+- ##### Enable the following extensions
+    - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
     - [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
     - [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
  
