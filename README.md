@@ -43,6 +43,7 @@
     - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
     - [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
     - [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
- 
+    - [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
+    - [Compiz alike windows effect](https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/)
 ### Theme
 - [Dracula Theme](https://draculatheme.com/gtk)
