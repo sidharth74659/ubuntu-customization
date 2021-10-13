@@ -1,6 +1,6 @@
 ### On your Default Browser
- - Install [```codegrepper```](https://www.google.com/search?q=codegrepper+extension)  
- - Install [```Adblock```](https://www.google.com/search?q=adblock+extension)
+ - [```codegrepper```](https://www.google.com/search?q=codegrepper+extension)  
+ - [```Adblock```](https://www.google.com/search?q=adblock+extension)
 
 ### Install snapstore
 > For Ubuntu 16.04 and greater : snapd is already installed, else
