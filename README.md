@@ -6,11 +6,9 @@
 > For Ubuntu 16.04 and greater : snapd is already installed, else
 
 ```sudo apt update```
-
 ```sudo apt install snapd```
 
-### Theme
-> [Dracula Theme](https://draculatheme.com/gtk)
+ 
  ### In terminal
  
 | Tools | command |
@@ -19,13 +17,14 @@
 |zsh|```sudo apt-get install zsh```|
 |[oh-my-zsh](https://ohmyz.sh/#install)|```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```|
 |[Powerline Fonts](https://github.com/powerline/fonts)|```sudo apt-get install fonts-powerline ```|
+|stacer|```sudo apt install stacer```|
 
 |DevTools | command|
 | ------ | ------ |
 |node-js|```sudo apt-get install nodejs```|
 |npm|```sudo apt-get install npm```|
 |[git](https://git-scm.com/)|```sudo apt-get install git```|
-|python|```sudo apt install python3.8```|
+|[python]|```sudo apt install python3.8```|
 
 | Other | command|
 | ------ | ------ |
@@ -33,6 +32,15 @@
 |Flameshot|```sudo snap install flameshot```|
 |Pomatez|```sudo snap install pomatez```|
 |WhatsApp for linux (unofficial)|```sudo snap install whatsapp-4linux```|
+
+
+
+| Fonts | Link/ command|
+|-----|-----|
+|Font Manager| ```sudo apt install font-manager```|
+|Source Code Pro|https://fonts.google.com/specimen/Source+Code+Pro|
+|Fira Code|```sudo apt install fonts-firacode```|
+|Cascadia Code|``` sudo apt-get install fonts-cascadia-code```|
 
 ### Extensions for Ubuntu
 
@@ -47,7 +55,7 @@
     - [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
     - [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
     - [Compiz alike windows effect](https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/)
-
+    - [WinTile](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/)
 ### Tools
 - [ULauncher](https://ulauncher.io/#Download) 
 ```sudo add-apt-repository ppa:agornostal/ulauncher && sudo apt update && sudo apt install ulauncher```
@@ -67,4 +75,11 @@
    
 - [Rofi - Ulauncher Alternative](https://github.com/davatorium/rofi/)    
 
+### Theme
+- [Dracula Theme](https://draculatheme.com/gtk)
+``` git clone https://github.com/getomni/ulauncher.git ~/.config/ulauncher/user-themes/omni-ulauncher```
+
+
+### Games 
+- [TrackMania Nations Forever](https://snapcraft.io/tmnationsforever) ```sudo snap install tmnationsforever```
 
