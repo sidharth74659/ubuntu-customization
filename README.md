@@ -18,7 +18,8 @@
 |zsh|```sudo apt-get install zsh```|
 |[oh-my-zsh](https://ohmyz.sh/#install)|```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```|
 |[Powerline Fonts](https://github.com/powerline/fonts)|```sudo apt-get install fonts-powerline ```|
-|[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)|```git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions```  <br>    ```source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh``` <br> add this in the file : ```plugins=( <other plugins...>   zsh-autosuggestions )```|
+|[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)|```git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions```  <br>    ```source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh``` |
+|Other Useful Zsh plugins| https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/|
 
 
 |DevTools | command|
