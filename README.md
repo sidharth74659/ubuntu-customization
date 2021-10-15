@@ -13,11 +13,13 @@
  
 | Tools | command |
 | ------ | ------ |
+|stacer|```sudo apt install stacer```|
 |curl|```sudo apt-get install curl```|
 |zsh|```sudo apt-get install zsh```|
 |[oh-my-zsh](https://ohmyz.sh/#install)|```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```|
 |[Powerline Fonts](https://github.com/powerline/fonts)|```sudo apt-get install fonts-powerline ```|
-|stacer|```sudo apt install stacer```|
+|[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)|```git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions```  <br>    ```source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh``` <br> add this in the file : ```plugins=( <other plugins...>   zsh-autosuggestions )```|
+
 
 |DevTools | command|
 | ------ | ------ |
@@ -56,6 +58,8 @@
     - [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
     - [Compiz alike windows effect](https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/)
     - [WinTile](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/)
+    - [color picker](https://extensions.gnome.org/extension/3396/color-picker/)
+
 ### Tools
 - [ULauncher](https://ulauncher.io/#Download) 
 ```sudo add-apt-repository ppa:agornostal/ulauncher && sudo apt update && sudo apt install ulauncher```
