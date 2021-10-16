@@ -35,8 +35,9 @@
 |Flameshot|```sudo snap install flameshot```|
 |Pomatez|```sudo snap install pomatez```|
 |WhatsApp for linux (unofficial)|```sudo snap install whatsapp-4linux```|
-
-
+|[Adjust Brightness](https://techstoriesindia.blogspot.com/2020/05/reduce-external-monitor-brightness-ubuntu-linux.html)|```sudo add-apt-repository ppa:apandada1/brightness-controller```<br>```sudo apt-get update```<br>```sudo apt-get install brightness-controller```|
+|[Youtube Video/Audio downloader](https://snapcraft.io/install/video-downloader/ubuntu#install)|```sudo snap install video-downloader```|
+|[F.lux](https://justgetflux.com/)||
 
 | Fonts | Link/ command|
 |-----|-----|
@@ -61,6 +62,10 @@
     - [WinTile](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/)
     - [color picker](https://extensions.gnome.org/extension/3396/color-picker/)
     - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - enable intelligent autohide dock and customize the other options the way you like it
+    - [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
+    - [Toggle Night Light](https://extensions.gnome.org/extension/3933/toggle-night-light/)
+    - Enable Minimise on Click - ```gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'``` 
+    - File Preview Tool - ```sudo apt-get install gnome-sushi```
     
 ### Tools
 - [ULauncher](https://ulauncher.io/#Download) 
@@ -83,8 +88,9 @@
 
 ### Theme
 - [Dracula Theme](https://draculatheme.com/gtk)
-``` git clone https://github.com/getomni/ulauncher.git ~/.config/ulauncher/user-themes/omni-ulauncher```
-
+- [Vimix Cursors](https://github.com/vinceliuice/Vimix-cursors)
+- [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)
+- [Terminal Themes](https://mayccoll.github.io/Gogh/)
 
 ### Games 
 - [TrackMania Nations Forever](https://snapcraft.io/tmnationsforever) ```sudo snap install tmnationsforever```
