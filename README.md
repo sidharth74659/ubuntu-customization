@@ -27,7 +27,7 @@
 |node-js|```sudo apt-get install nodejs```|
 |npm|```sudo apt-get install npm```|
 |[git](https://git-scm.com/)|```sudo apt-get install git```|
-|[python]|```sudo apt install python3.8```|
+|python|```sudo apt install python3.8```|
 
 | Other | command|
 | ------ | ------ |
@@ -60,7 +60,8 @@
     - [Compiz alike windows effect](https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/)
     - [WinTile](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/)
     - [color picker](https://extensions.gnome.org/extension/3396/color-picker/)
-
+    - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - enable intelligent autohide dock and customize the other options the way you like it
+    
 ### Tools
 - [ULauncher](https://ulauncher.io/#Download) 
 ```sudo add-apt-repository ppa:agornostal/ulauncher && sudo apt update && sudo apt install ulauncher```
