@@ -14,6 +14,7 @@
 | Tools | command |
 | ------ | ------ |
 |stacer|```sudo apt install stacer```|
+|System Load Monitor|```sudo apt install indicator-multiload```|
 |curl|```sudo apt-get install curl```|
 |zsh|```sudo apt-get install zsh```|
 |[oh-my-zsh](https://ohmyz.sh/#install)|```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```|
