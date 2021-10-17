@@ -32,13 +32,12 @@
 | Other | command|
 | ------ | ------ |
 |Telegram|```sudo snap install telegram-desktop```|
-|Flameshot|```sudo snap install flameshot```|
+|Flameshot|```sudo apt install flameshot```|
 |Pomatez|```sudo snap install pomatez```|
 |WhatsApp for linux (unofficial)|```sudo snap install whatsapp-4linux```|
 |[Adjust Brightness](https://techstoriesindia.blogspot.com/2020/05/reduce-external-monitor-brightness-ubuntu-linux.html)|```sudo add-apt-repository ppa:apandada1/brightness-controller```<br>```sudo apt-get update```<br>```sudo apt-get install brightness-controller```|
 |[Youtube Video/Audio downloader](https://snapcraft.io/install/video-downloader/ubuntu#install)|```sudo snap install video-downloader```|
 |[F.lux](https://justgetflux.com/)||
-
 | Fonts | Link/ command|
 |-----|-----|
 |Font Manager| ```sudo apt install font-manager```|
