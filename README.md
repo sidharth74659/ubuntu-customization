@@ -67,6 +67,7 @@
     - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - enable intelligent autohide dock and customize the other options the way you like it
     - [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
     - [Toggle Night Light](https://extensions.gnome.org/extension/3933/toggle-night-light/)
+    - [Task Widget](https://extensions.gnome.org/extension/3569/task-widget/) => For [Dependencies](https://www.omgubuntu.co.uk/2020/09/task-widget-gnome-shell-extension) - ```sudo apt install evolution-data-server gir1.2-edataserver-1.2 gir1.2-ecal-2.0 gir1.2-ical-3.0```
     - Enable Minimise on Click - ```gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'``` 
     - File Preview Tool - ```sudo apt-get install gnome-sushi```
     
