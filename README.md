@@ -5,9 +5,12 @@
 ### Install [snapstore](https://snapcraft.io/store)
 > For Ubuntu 16.04 and greater : snapd is already installed, else
 
-```sudo apt update```
-```sudo apt install snapd```
+    sudo apt update
+    sudo apt install snapd
 
+### Wallpaper
+
+ - [astronaut space](https://www.wallpaperflare.com/astronaut-space-black-background-artwork-wallpaper-gjfku/download/1366x768)
  
  ### In terminal
  
