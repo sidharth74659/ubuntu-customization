@@ -1,6 +1,7 @@
 ### On your Default Browser
  - [```codegrepper```](https://www.google.com/search?q=codegrepper+extension)  
  - [```Adblock```](https://www.google.com/search?q=adblock+extension)
+ - [```SaveFrom.net```](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/) 
 
 ### Install [snapstore](https://snapcraft.io/store)
 > For Ubuntu 16.04 and greater : snapd is already installed, else
@@ -39,9 +40,14 @@
 |Flameshot|```sudo apt install flameshot```|
 |Pomatez|```sudo snap install pomatez```|
 |WhatsApp for linux (unofficial)|```sudo snap install whatsapp-4linux```|
+
+| Optionals | command|
+| ------ | ------ |
 |[Adjust Brightness](https://techstoriesindia.blogspot.com/2020/05/reduce-external-monitor-brightness-ubuntu-linux.html)|```sudo add-apt-repository ppa:apandada1/brightness-controller```<br>```sudo apt-get update```<br>```sudo apt-get install brightness-controller```|
 |[Youtube Video/Audio downloader](https://snapcraft.io/install/video-downloader/ubuntu#install)|```sudo snap install video-downloader```|
 |[F.lux](https://justgetflux.com/)||
+|[emote](https://snapcraft.io/install/emote/ubuntu#install)|```sudo snap install emote```|
+
 | Fonts | Link/ command|
 |-----|-----|
 |Font Manager| ```sudo apt install font-manager```|
@@ -68,7 +74,6 @@
     - [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
     - [Toggle Night Light](https://extensions.gnome.org/extension/3933/toggle-night-light/)
     - [Task Widget](https://extensions.gnome.org/extension/3569/task-widget/) => For [Dependencies](https://www.omgubuntu.co.uk/2020/09/task-widget-gnome-shell-extension) - ```sudo apt install evolution-data-server gir1.2-edataserver-1.2 gir1.2-ecal-2.0 gir1.2-ical-3.0```
-    - [you2ber] => For [Dependencies](https://github.com/konkor/you2ber)
     - Enable Minimise on Click - ```gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'``` 
     - File Preview Tool - ```sudo apt-get install gnome-sushi```
     
