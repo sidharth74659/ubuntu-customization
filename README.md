@@ -1,3 +1,9 @@
+### Browsers
+ - [```Firefox```](https://www.mozilla.org/en-US/firefox/linux/)
+ - [```Brave```](https://brave.com/linux/)
+ - [```Chrome```](https://www.google.com/intl/en_in/chrome/)
+
+
 ### On your Default Browser
  - [```codegrepper```](https://www.google.com/search?q=codegrepper+extension)  
  - [```Adblock```](https://www.google.com/search?q=adblock+extension)
